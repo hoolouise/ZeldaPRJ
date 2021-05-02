@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/louiseparis/Desktop/ARZelda/Packages/manifest.json
+    m_FilePath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 637555634190000000
     m_Hash: 1266663712
   m_LockFileStatus:
-    m_FilePath: /Users/louiseparis/Desktop/ARZelda/Packages/packages-lock.json
+    m_FilePath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.collab-proxy@1.3.9
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -122,7 +122,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.ide.rider@2.0.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -227,7 +227,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.ide.visualstudio@2.0.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -308,7 +308,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.ide.vscode@1.2.3
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -377,7 +377,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.learn.iet-framework@1.2.3
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.learn.iet-framework@1.2.3
       assetPath: Packages/com.unity.learn.iet-framework
       name: com.unity.learn.iet-framework
       displayName: Tutorial Framework
@@ -505,7 +505,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.test-framework@1.1.24
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -593,7 +593,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.textmeshpro@3.0.4
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.textmeshpro@3.0.4
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -752,7 +752,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.timeline@1.4.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.timeline@1.4.7
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -956,7 +956,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.arcore@4.1.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.arcore@4.1.7
       assetPath: Packages/com.unity.xr.arcore
       name: com.unity.xr.arcore
       displayName: ARCore XR Plugin
@@ -1174,7 +1174,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.arfoundation@4.1.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.arfoundation@4.1.7
       assetPath: Packages/com.unity.xr.arfoundation
       name: com.unity.xr.arfoundation
       displayName: AR Foundation
@@ -1391,7 +1391,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.arkit@4.1.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.arkit@4.1.7
       assetPath: Packages/com.unity.xr.arkit
       name: com.unity.xr.arkit
       displayName: ARKit XR Plugin
@@ -1630,7 +1630,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 6.2.2
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.magicleap@6.2.2
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.magicleap@6.2.2
       assetPath: Packages/com.unity.xr.magicleap
       name: com.unity.xr.magicleap
       displayName: Magic Leap XR Plugin
@@ -1800,7 +1800,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.management@4.0.1
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.management@4.0.1
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -1928,7 +1928,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.4.2
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.windowsmr@4.4.2
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.windowsmr@4.4.2
       assetPath: Packages/com.unity.xr.windowsmr
       name: com.unity.xr.windowsmr
       displayName: Windows XR Plugin
@@ -3806,7 +3806,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.interactionsubsystems@1.0.1
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.interactionsubsystems@1.0.1
       assetPath: Packages/com.unity.xr.interactionsubsystems
       name: com.unity.xr.interactionsubsystems
       displayName: XR Interaction Subsystems
@@ -3865,7 +3865,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.1.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.arsubsystems@4.1.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.arsubsystems@4.1.7
       assetPath: Packages/com.unity.xr.arsubsystems
       name: com.unity.xr.arsubsystems
       displayName: AR Subsystems
@@ -3924,7 +3924,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.1.7
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.7
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -3995,7 +3995,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.editorcoroutines@1.0.0
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.editorcoroutines@1.0.0
       assetPath: Packages/com.unity.editorcoroutines
       name: com.unity.editorcoroutines
       displayName: Editor Coroutines
@@ -4059,7 +4059,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.ext.nunit@1.0.6
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -4120,7 +4120,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.2
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.settings-manager@1.0.2
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.settings-manager@1.0.2
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
       displayName: Settings Manager
@@ -4178,7 +4178,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: /Users/louiseparis/Desktop/ARZelda/Library/PackageCache/com.unity.subsystemregistration@1.1.0
+      resolvedPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Library/PackageCache/com.unity.subsystemregistration@1.1.0
       assetPath: Packages/com.unity.subsystemregistration
       name: com.unity.subsystemregistration
       displayName: Subsystem Registration
@@ -4234,5 +4234,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: /Users/louiseparis/Desktop/ARZelda/Packages
+m_ProjectPath: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Packages
 m_EditorVersion: 2020.3.6f1 (338bb68529b2)
