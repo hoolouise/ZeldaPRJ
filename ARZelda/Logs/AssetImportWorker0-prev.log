@@ -12,42 +12,42 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55800
+61849
 Successfully changed project path to: /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda
 /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 124.06 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 4.22 ms.
+Refreshing native plugins compatible for Editor in 69.62 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 3.90 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/louiseparis/Desktop/Projets/Zelda anim/git/ZeldaPRJ/ARZelda/Assets
 GfxDevice: creating device client; threaded=0
-2021-05-03 16:19:32.711 Unity[21080:1438399] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
-2021-05-03 16:19:32.711 Unity[21080:1438399] Metal devices available: 1
-2021-05-03 16:19:32.711 Unity[21080:1438399] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
-2021-05-03 16:19:32.711 Unity[21080:1438399] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-05-05 16:42:08.195 Unity[23994:1674586] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-05-05 16:42:08.195 Unity[23994:1674586] Metal devices available: 1
+2021-05-05 16:42:08.195 Unity[23994:1674586] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-05-05 16:42:08.195 Unity[23994:1674586] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6100
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56994
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.002593 seconds.
+Registered in 0.000872 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 54.74 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 2.55 ms.
+Refreshing native plugins compatible for Editor in 64.51 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 2.59 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.540 seconds
+- Completed reload, in  1.903 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010642 seconds.
+Registered in 0.007756 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 53.33 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 2.69 ms.
+Refreshing native plugins compatible for Editor in 57.29 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 2.67 ms.
 System.NullReferenceException: Object reference not set to an instance of an object
   at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
   at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
@@ -79,7 +79,7 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (
 (Filename: /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs Line: 37)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.769 seconds
+- Completed reload, in  1.442 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -98,228 +98,60 @@ WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 2.39 ms.
-Unloading 1913 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 145.2 MB.
-System memory in use after: 145.2 MB.
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.86 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 2.84 ms.
+Unloading 2137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.1 MB.
+System memory in use after: 154.2 MB.
 
-Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2608.
-Total: 3.212599 ms (FindLiveObjects: 0.528771 ms CreateObjectMapping: 0.229337 ms MarkObjects: 2.338562 ms  DeleteObjects: 0.114483 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Art/Perso/linkv02.fbx
-  artifactKey: Guid(933822de17196483f83fa7fba01310f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Perso/linkv02.fbx using Guid(933822de17196483f83fa7fba01310f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d6abac0ab67d34141bad3fe6aed697') in 1.763780 seconds
-  Import took 1.772293 seconds .
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2831.
+Total: 3.712418 ms (FindLiveObjects: 0.637010 ms CreateObjectMapping: 0.197756 ms MarkObjects: 2.741711 ms  DeleteObjects: 0.134118 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.739376 seconds.
-  path: Assets/Scenes/Test_vufori.unity
-  artifactKey: Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test_vufori.unity using Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c633383ad2e23dfb1e497ee90e357c37') in 0.006558 seconds
-  Import took 0.011124 seconds .
+  path: Assets/Art/Perso/Animation/Great Sword Idle.fbx
+  artifactKey: Guid(0073db2c5aaf14454b57809a6fdc07e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/Animation/Great Sword Idle.fbx using Guid(0073db2c5aaf14454b57809a6fdc07e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b2f3ba7c9e08b40a6c202969408d7c') in 1.072206 seconds
+  Import took 1.078443 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.015210 seconds.
-  path: Assets/Scenes/Test_vufori.unity
-  artifactKey: Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test_vufori.unity using Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c633383ad2e23dfb1e497ee90e357c37') in 0.003103 seconds
-  Import took 0.008510 seconds .
+  Time since last request: 0.000329 seconds.
+  path: Assets/Art/Perso/Animation/Stable Sword Inward Slash.fbx
+  artifactKey: Guid(7fe61914cd34047a5ae711b79dd77111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/Animation/Stable Sword Inward Slash.fbx using Guid(7fe61914cd34047a5ae711b79dd77111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f355bcfb794c628591641a5731de65cc') in 0.008620 seconds
+  Import took 0.014524 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.875264 seconds.
-  path: Assets/Scenes/Test_vuforia.unity
-  artifactKey: Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test_vuforia.unity using Guid(fcc29f9642d7e474c956bdb7341537ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073f5dd0371b43603bf209ee5dd4f65f') in 0.004778 seconds
-  Import took 0.013304 seconds .
+  Time since last request: 44.634589 seconds.
+  path: Assets/Art/Perso/skin anim/Neutral Idle.fbx
+  artifactKey: Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/skin anim/Neutral Idle.fbx using Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a7a73286e1d49a084f5cf839566fc5') in 0.478346 seconds
+  Import took 0.484277 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 422.396818 seconds.
-  path: Assets/Editor/Vuforia
-  artifactKey: Guid(7d81452e949e249e0ae1b2767bb04aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Editor/Vuforia using Guid(7d81452e949e249e0ae1b2767bb04aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a75492b5c2aa2734f69cf072aa1e74') in 0.002637 seconds
-  Import took 0.018200 seconds .
+  Time since last request: 8.518608 seconds.
+  path: Assets/Art/Perso/skin anim/Neutral Idle.fbx
+  artifactKey: Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/skin anim/Neutral Idle.fbx using Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e390920ef97b756b7bb06777386867df') in 0.436385 seconds
+  Import took 0.443167 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.760344 seconds.
-  path: Assets/Editor/Vuforia/jardin
-  artifactKey: Guid(de222f96fc1e4423ca153a0f20c192a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Editor/Vuforia/jardin using Guid(de222f96fc1e4423ca153a0f20c192a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12652bc264d16f488a25d6a36a4e9e76') in 0.003869 seconds
-  Import took 0.018963 seconds .
+  Time since last request: 18.052228 seconds.
+  path: Assets/Art/Perso/skin anim/Neutral Idle.fbx
+  artifactKey: Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/skin anim/Neutral Idle.fbx using Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e4abb428e2fc8ff8a508816f358688') in 0.395364 seconds
+  Import took 0.401040 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.085078 seconds.
-  path: Assets/Editor/Vuforia/jardin/NavMesh.prefab
-  artifactKey: Guid(a1d78d43558c24cb09fc8b3a9af12a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Editor/Vuforia/jardin/NavMesh.prefab using Guid(a1d78d43558c24cb09fc8b3a9af12a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce730df930e5a16bda77bf1f607b393') in 0.635399 seconds
-  Import took 0.640358 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Editor/Vuforia/jardin/PreviewModel.prefab
-  artifactKey: Guid(d9b7f8c1260bc41779d597c5fc88058a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Editor/Vuforia/jardin/PreviewModel.prefab using Guid(d9b7f8c1260bc41779d597c5fc88058a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a3a06fa3eb34bc94bd22f5980f829f') in 0.362059 seconds
-  Import took 0.369600 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 66.904737 seconds.
-  path: Assets/Art/Perso/Textures
-  artifactKey: Guid(434c39b20c2684c83b2de4846220075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Perso/Textures using Guid(434c39b20c2684c83b2de4846220075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b667d30c81160a27b48914e55d9c5cc2') in 0.002038 seconds
-  Import took 0.008697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004199 seconds.
-  path: Assets/Art/Perso/Textures
-  artifactKey: Guid(434c39b20c2684c83b2de4846220075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Perso/Textures using Guid(434c39b20c2684c83b2de4846220075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b667d30c81160a27b48914e55d9c5cc2') in 0.006288 seconds
-  Import took 0.021777 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.753044 seconds.
-  path: Assets/Resources/VuforiaConfiguration.asset
-  artifactKey: Guid(6a93ba526308949dd8382b2f5d9fef75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(6a93ba526308949dd8382b2f5d9fef75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409dd6b416e1f503ac38b75bae037b34') in 0.218982 seconds
-  Import took 0.223408 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014855 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 2.79 ms.
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at VuforiaEnabledObserver..cctor () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
-
-(Filename: /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs Line: 37)
-
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
-
-(Filename: /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs Line: 37)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.660 seconds
-Platform modules already initialized, skipping
-Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 3.45 ms.
-Unloading 1868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 161.7 MB.
-System memory in use after: 161.8 MB.
-
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2658.
-Total: 3.311332 ms (FindLiveObjects: 0.420798 ms CreateObjectMapping: 0.088899 ms MarkObjects: 2.679962 ms  DeleteObjects: 0.119272 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.025507 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 3.07 ms.
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at VuforiaEnabledObserver..cctor () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
-
-(Filename: /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs Line: 37)
-
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <d3e3611e09164266b01b2e2ee0bae4b4>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
-
-(Filename: /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs Line: 37)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  2.169 seconds
-Platform modules already initialized, skipping
-Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
-Preloading 1 native plugins for Editor in 2.40 ms.
-Unloading 1868 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 162.0 MB.
-System memory in use after: 162.1 MB.
-
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2662.
-Total: 2.327958 ms (FindLiveObjects: 0.290297 ms CreateObjectMapping: 0.073983 ms MarkObjects: 1.865558 ms  DeleteObjects: 0.096423 ms)
+  Time since last request: 9.587701 seconds.
+  path: Assets/Art/Perso/skin anim/Neutral Idle.fbx
+  artifactKey: Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Perso/skin anim/Neutral Idle.fbx using Guid(1e65e05be76634620a4f40e27c47fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0097a3ac6ba7a441b6807894b08b1ca8') in 0.384311 seconds
+  Import took 0.390643 seconds .
 

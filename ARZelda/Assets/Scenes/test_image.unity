@@ -257,7 +257,7 @@ Transform:
   m_Children:
   - {fileID: 1702021750}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1066608962
 GameObject:
@@ -621,6 +621,18 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 307c8a4e031ff4301b81f5f885d62324, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 1e65e05be76634620a4f40e27c47fe1b,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Link:Hips'\n\tTransform 'Link:RightHand'\n\tTransform
+        'Link:Neck'\n\tTransform 'Link:LeftArm'\n\tTransform 'Link:RightArm'\n\tTransform
+        'Link:RightHandThumb3'\n\tTransform 'Link:RightToeBase'\n\tTransform 'Link:RightUpLeg'\n\tTransform
+        'Link:LeftHandIndex1'\n\tTransform 'Link:RightLeg'\n\tand more ...\n\tFrom
+        animation clip 'mixamo.com'\n\tFrom animation clip 'mixamo.com'\n\tFrom animation
+        clip 'mixamo.com'"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e65e05be76634620a4f40e27c47fe1b, type: 3}
 --- !u!4 &1702021750 stripped
@@ -629,6 +641,75 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1547904165}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1715464204
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5273036
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.8190908
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.842079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 933822de17196483f83fa7fba01310f1,
+        type: 3}
+      propertyPath: m_Name
+      value: linkv02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 933822de17196483f83fa7fba01310f1, type: 3}
 --- !u!21 &1843736506
 Material:
   serializedVersion: 6
@@ -749,5 +830,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}

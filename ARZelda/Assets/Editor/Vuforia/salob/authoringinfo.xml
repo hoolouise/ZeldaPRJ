@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.1" bbox="-4.2657 -1.2734 -1.9153 4.4024 1.2987 6.3988" targetId="a2be43ea4c90450fb036abec5d7f5d31" name="salob" pathAuthoring="a2be43ea4c90450fb036abec5d7f5d31_authoring.glb" pathOcclusion="a2be43ea4c90450fb036abec5d7f5d31_occlusion.3dt" pathNavMesh="a2be43ea4c90450fb036abec5d7f5d31_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
